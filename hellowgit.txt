@@ -5,3 +5,5 @@ Git is free software. 开始
 update 新信息
 
 工作区
+
+update 1
